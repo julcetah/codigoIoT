@@ -16,7 +16,7 @@ def app():
     if result is True:
         print('¡El número es Primo!')
     else:
-        print('El número NO es Primo!!')
+        print('El número NO_es Primo!!')
 
 if __name__ == '__main__':
     app()
